@@ -6,4 +6,4 @@ Virustotal on verkkosivu, jonne voi syöttää erilaisia artifakteja joita ovat 
 - URL-osoitteet tai domainit
 - IP-osoitteet
 - Tiedostot tai niiden hajautusarvot (Hash Value)
-![Virustotal](./Kuvat/Virustotal.PNG)
+![Virustotal](./Kuvat/Virustotal2.PNG)
