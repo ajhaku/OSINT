@@ -2,4 +2,4 @@
 Kokelma OSINT-työkaluja
 
 ## Virustotal
-![Virustotal](./Kuvat/Virustotal.png)  
+![Virustotal](./Kuvat/Virustotal.PNG)
